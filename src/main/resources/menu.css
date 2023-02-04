@@ -1,0 +1,23 @@
+.menu {
+ -fx-background-color: #243138;
+}
+
+.button {
+    -fx-background-color: #243138;
+    -fx-text-fill: white;
+}
+.button:focused  {
+   -fx-background-color: #088880;
+}
+
+.button:hover {
+    -fx-background-color: #455862;
+}
+
+
+.txtName {
+    -fx-font-size: 20;
+    -fx-fill: white;
+    -fx-font-weight:bold;
+    -fx-background-color:#232F38;
+}

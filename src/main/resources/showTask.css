@@ -1,0 +1,9 @@
+.windowTittle {
+-fx-background-color: #243138;
+}
+
+.txtTittle {
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-fill: white;
+}

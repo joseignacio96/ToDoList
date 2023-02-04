@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: #DBDBDB;
+}
+
+.button {
+    -fx-background-color: #243138;
+    -fx-text-fill: white;
+}
+.button:focused  {
+   -fx-background-color: #243138;
+}
+
+.button:hover {
+    -fx-background-color: #088880;
+}
+
+.txtName {
+    -fx-font-size: 20;
+    -fx-fill: black;
+    -fx-font-weight:bold;
+}
